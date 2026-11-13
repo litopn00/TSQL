@@ -1,0 +1,1 @@
+delete [dbo].[ali21] 
